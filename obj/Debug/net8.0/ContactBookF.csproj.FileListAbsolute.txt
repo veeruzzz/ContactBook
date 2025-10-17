@@ -1,0 +1,14 @@
+C:\Users\iande\source\repos\ContactBookF\obj\Debug\net8.0\ContactBookF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iande\source\repos\ContactBookF\obj\Debug\net8.0\ContactBookF.AssemblyInfoInputs.cache
+C:\Users\iande\source\repos\ContactBookF\obj\Debug\net8.0\ContactBookF.AssemblyInfo.cs
+C:\Users\iande\source\repos\ContactBookF\obj\Debug\net8.0\ContactBookF.csproj.CoreCompileInputs.cache
+C:\Users\iande\source\repos\ContactBookF\bin\Debug\net8.0\ContactBookF.exe
+C:\Users\iande\source\repos\ContactBookF\bin\Debug\net8.0\ContactBookF.deps.json
+C:\Users\iande\source\repos\ContactBookF\bin\Debug\net8.0\ContactBookF.runtimeconfig.json
+C:\Users\iande\source\repos\ContactBookF\bin\Debug\net8.0\ContactBookF.dll
+C:\Users\iande\source\repos\ContactBookF\bin\Debug\net8.0\ContactBookF.pdb
+C:\Users\iande\source\repos\ContactBookF\obj\Debug\net8.0\ContactBookF.dll
+C:\Users\iande\source\repos\ContactBookF\obj\Debug\net8.0\refint\ContactBookF.dll
+C:\Users\iande\source\repos\ContactBookF\obj\Debug\net8.0\ContactBookF.pdb
+C:\Users\iande\source\repos\ContactBookF\obj\Debug\net8.0\ContactBookF.genruntimeconfig.cache
+C:\Users\iande\source\repos\ContactBookF\obj\Debug\net8.0\ref\ContactBookF.dll
